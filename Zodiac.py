@@ -1,8 +1,5 @@
 # find Zodiac sign and symbol from given user input
 
-from logging import critical
-
-
 male_zodiac=None
 female_zodiac=None
 
