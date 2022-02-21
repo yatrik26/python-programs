@@ -16,4 +16,5 @@ while guess!=gussed:
         print('sorry')
         break
 else:
-    print('congo')
+    print('congratulations')
+    
